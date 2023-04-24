@@ -1,0 +1,43 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.efiled{
+  padding: 10px;
+}
+lable{
+  padding-right: 30px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+input{
+  padding: 10px;
+  width: 50%;
+}
+button {
+  background-color:green;
+  padding: 10px;
+  width: 30%;
+  color: white;
+}
+table{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+table td, table th{
+  border: 1px solid;
+  padding: 8px;
+}
+table th{
+  background-color: green;
+  padding:10px;
+  color:white
+}
+table td{
+  background-color: whitesmoke;
+  padding:10px;
+  text-align: center;
+  color:black
+}
+
+
